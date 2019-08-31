@@ -1,0 +1,136 @@
+
+body.panel{
+  padding:0px;
+}
+
+.navbar-panel{
+  background:#455a64;
+  margin:0px;
+  border-radius:0;
+}
+
+.btn-save {
+  border:none;
+  font-size: 16px;
+  color: #fff;
+  padding: 5px 40px;
+  border-radius: 15px;
+  background: #00bcd4;
+  margin-top:10px;
+}
+
+.navbar-default .btn-nav{
+  border:none;
+  font-size: 14px;
+  color: #ffffff;
+  padding: 5px 20px;
+  height: 30px;
+  border-radius: 15px;
+  background: #00bcd4;
+  margin:10px 20px;
+}
+
+.navbar-default .btn-add{
+  background: #00bcd4;
+}
+
+.navbar-default .btn-delete{
+  background: #ef9e98;
+}
+
+.glyphicon-paperclip{
+  font-size: 20px;
+  padding-top: 15px;
+  color:#999;
+}
+.add-answer{
+  font-size: 16px;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 15px;
+  background: #00bcd4;
+  margin-top:10px;
+}
+
+.type_answer{
+  margin-top:-15px;
+  font-weight: bold;
+}
+
+.activity-area{
+     background:url('../img/background.png') no-repeat bottom; background-size: cover;
+     min-height: 300px;
+     padding:50px 0px;
+     margin-bottom: 20px;
+}
+
+.slides a{
+  display: block;
+  padding:5px 0;
+}
+
+.logo{
+  padding-top:10px;
+}
+
+.btn-back{
+  font-size: 22px;
+  margin-left: -10px;
+}
+
+
+.question{
+    border:2px solid #fff;
+    color:#fff;
+    background: #168ce4;
+    font-size:22px;
+    padding:10px 10px 0 10px;
+    border-radius:0px;
+    box-shadow: 1px 1px 2px #666;
+    font-family: 'djb_almost_perfectregular';
+    width: 80%;
+    margin:20px 30px;
+}
+
+
+
+
+/* ================ NOVO CSS ==================== */
+.navbar-teacher{height: 52px;}
+.navbar-teacher li a{border-bottom:3px solid #455a64;}
+.navbar-teacher li a:hover {border-bottom:3px solid #00bcd4;}
+.navbar-teacher li a.active {border-bottom:3px solid #00bcd4;}
+.navbar-inverse .navbar-teacher > li > a{color:#ffffff;}
+.navbar-inverse .navbar-teacher > li > a:hover{color:#00bcd4;}
+
+.navbar-nav > li > a{font-weight: bold;}
+
+.table-scoola{margin:0% 1%; width: 97%;}
+.table-scoola th{color:#999; font-weight: normal;  border-bottom:1px solid #ccc;}
+.table-scoola td a{color:#00bcd4;}
+.date{color:#999;}
+
+.table-scoola > tbody > tr > th.col-width{width: 40%;}
+.table-scoola > tbody > tr > th.col-width-min{width: 20%;}
+
+.table-scoola > tbody > tr > td, .table-scoola > tbody > tr > th, .table-scoola > tfoot > tr > td, .table-scoola > tfoot > tr > th, .table-scoola > thead > tr > td, .table-scoola > thead > tr > th{border-top:0;}
+
+.glyphicon-ok-sign{color:#66CC00;}
+.glyphicon-remove-sign{color:#CC0000;}
+
+.form-search{padding-top:7px;}
+.form-search .form-group{margin-bottom: 0px;}
+
+.table-scoola .glyphicon-trash{color:#ccc; font-size:14px; margin-left:10px;}
+
+span.percentage{color:#00bcd4;}
+
+.report{height: 50px;}
+.report h4{float:left;}
+.report .nav-pills{float:left; margin:5px 0 0 15px;}
+
+.report .nav-pills > li > a{border-radius:15px; padding:5px 20px; }
+.report .nav-pills > li > a:hover{border-radius:15px;  background:#00bcd4; color:#fff;}
+.report .nav-pills > li.active > a{border-radius:15px;  background:#00bcd4;}
+
+.profile{margin-top:30px;}
